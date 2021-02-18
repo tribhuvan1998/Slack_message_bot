@@ -2,7 +2,7 @@
 
 Slack message bot for a channel in your workspace.
 
-<img src="URL" width="530" height="400">
+<img src="https://github.com/tribhuvan1998/Slack_message_bot/blob/master/static/Slack_bot.png" width="530" height="400">
 
 ## Requirements
 
