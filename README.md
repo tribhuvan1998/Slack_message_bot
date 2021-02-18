@@ -9,7 +9,7 @@ Slack message bot for a channel in your workspace.
 - Python 3.6 or higher.
 - Create a slack app from [here](https://api.slack.com/apps).
 
-<img src="https://github.com/tribhuvan1998/Slack_message_bot/Static/Create_app.png" width="530" height="400">
+<img src="https://github.com/tribhuvan1998/Slack_message_bot/blob/master/static/Create_app.png" width="530" height="400">
 
 - A **Slack App Token**.
 - A **Signing Secret**.
@@ -20,7 +20,7 @@ Slack message bot for a channel in your workspace.
 
 1. Make a folder named Slack bot and open it with VS Code.
 
-<img src="URL" width="530" height="400">.
+<img src="https://github.com/tribhuvan1998/Slack_message_bot/blob/master/static/VS_CODE.png" width="530" height="400">.
 
 2. Create a python file [.py extension] named Slack_bot in this folder.  
 3. Oen a new **Terminal**.  
@@ -29,11 +29,11 @@ Slack message bot for a channel in your workspace.
 6. `pip install -r requirements.txt`, to install the requirements.  
 7. Now copy the source code given in slack_bot.py from the above repository and paste in your Slack_bot in your Editor.  
 
-<img src="https://github.com/tribhuvan1998/Slack_message_bot/Static/Source_code.png" width="530" height="400">
+<img src="https://github.com/tribhuvan1998/Slack_message_bot/blob/master/static/Source_Code.png" width="530" height="400">
 
 8. Make sure to add functionality and features before getting the Slack Token.
 
-<img src="https://github.com/tribhuvan1998/Slack_message_bot/Static/Create_app.png" width="530" height="400">
+<img src="https://github.com/tribhuvan1998/Slack_message_bot/blob/master/static/Features.png" width="530" height="400">
 
 9. Features to be added are:
    - Incoming Webhooks (chat:write).
